@@ -78,5 +78,3 @@ The dataset (`fake reviews dataset.csv`) contains product reviews labeled as:
 - Created for the Machine Learning course (IIA4, 2024/2025).
 - Contact: [NAJAR Yassine]
 
-## License
-This project is for educational purposes only. Ensure compliance with dataset usage terms.
